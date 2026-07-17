@@ -45,7 +45,11 @@ export default function App() {
   return (
     <div className="app">
 <header>
+<<<<<<< HEAD
   <h1>Mini Customer Relationship Management</h1>
+=======
+  <h1>Mini Customer Relationship Managemnt</h1>
+>>>>>>> 030be87db93e2062cb1b234bd0382dd02d648f03
 </header>
 
       <LeadForm onLeadAdded={handleLeadAdded} />
